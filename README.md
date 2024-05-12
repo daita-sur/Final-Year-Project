@@ -8,7 +8,7 @@
 
 **Project Description:**
 ----------------------
-Sign language is not very common among people and hence it is very difficult to communicate with people who can’t hear and speak. The project is about capturing sign language in real time via webcam and translating it to English. Just like in movies with subtitles, in this project we will be using the same concept i.e., as a person shows the sign language, it will show a live caption in English. Our project can translate a sentence or even a whole paragraph in real-time. With the help of Deep Learning, we will extract the key points, train the model, preprocess it, create labels and features, and test it in real time.
+Sign language is not very common among people and hence it is very difficult to communicate with people who can’t hear and speak. The project is about capturing sign language in real time via webcam and translating it to English. Just like in movies with subtitles, in this project we will be using the same concept i.e., as a person shows the sign language, it will show a live caption in English. Our project can translate a sentence or even a whole paragraph in real-time. With the help of Deep Learning, we will extract the key points, train the model, preprocess it, create labels and features, and test it in real time.As be-verb (am, is, are etc.) is not available in sign language, therefore we have used generative AI to format the sentences to make it more understandable.
   
 **Team Members:**
 -----------------
